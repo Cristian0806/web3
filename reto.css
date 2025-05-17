@@ -1,0 +1,38 @@
+
+
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding : 1rem;
+}
+
+ul{
+    list-style: none;
+    display:flex;
+    color :black;
+    flex-direction:row;
+    gap:1rem;
+}
+
+.container{
+    display:flex;
+    flex-direction: row;
+    gap:1rem;
+
+}
+
+.l1{
+    border-radius: 30px;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.l2{
+    border-radius: 18px;
+    align-items: center;
+}
+
